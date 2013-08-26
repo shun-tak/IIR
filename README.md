@@ -1,7 +1,7 @@
 情報検索の基礎
 ==============
 
-Introduction to Information Retrieval
+[Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/)
 
 Chiristopher D. Manning, Prabhakar Raghavan, Hinrich Schutze
 
