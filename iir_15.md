@@ -104,8 +104,8 @@ __マージン最大化__ ...マージンが最大になるように分類面を
 
 となる。
 
-    |w| = sqrt(Tw w)
-    y_i = 1 / y_i ?
+    |w| = sqrt(Tw w) (definition of norm)
+    y_i = 1 / y_i (because y_i = 1 or -1)
 
 なので、これを _r_ について解くと
 
