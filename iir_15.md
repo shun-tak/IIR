@@ -3,6 +3,8 @@
 
 2013年8月28日（水）
 
+at Gunosy Inc.
+
 [資料（英語）](http://nlp.stanford.edu/IR-book/pdf/15svm.pdf)
 
 
